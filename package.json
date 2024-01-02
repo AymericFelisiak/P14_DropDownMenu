@@ -1,6 +1,6 @@
 {
     "name": "p14_dropdownmenu",
-    "version": "1.0.4",
+    "version": "1.1.0",
     "description": "Package React for a drop down menu",
     "main": "dist/index.js",
     "scripts": {
