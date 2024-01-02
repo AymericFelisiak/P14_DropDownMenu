@@ -12,10 +12,10 @@ import DropDownMenu from 'p14_dropdownmenu';
 ```  
 
 ## Props
-- name: html tag name
-- id: html tag id
-- className: your custom css class
-- data: a json with a name key
+- `name`: html tag name
+- `id`: html tag id
+- `className`: your custom css class
+- `data`: a json with a name key
 
 ## Json file formatting
 - The json MUST have a `name` key, each key will be a choice in the select menu.
